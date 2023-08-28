@@ -32,6 +32,7 @@
 #include <bl_dma.h>
 #include <bl_timer.h>
 #include <bl_gpio_cli.h>
+#include <bl_gpio.h>
 #include <bl_wdt_cli.h>
 #include <hal_uart.h>
 #include <hal_sys.h>
